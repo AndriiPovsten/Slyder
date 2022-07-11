@@ -1,5 +1,5 @@
 # Slyder
-Fast moving threw page using buttons.
+Fast moving through page using buttons.
 
 ![](slyder%20blue.png)
 
